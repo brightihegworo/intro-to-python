@@ -7,7 +7,7 @@ name_1 = 'bright'
 result_1 = ''
 for x in range(0, 3):
     result_1 += name_1
-#print(result_1)
+print(result_1)
 
 # TODO: Here is your code
 
@@ -50,6 +50,6 @@ Range = range(0, 101, 2)
 result_4 = 0
 for digit in Range:
     result_4 += digit
-print(result_4)
+#print(result_4)
 
 # TODO: Here is your code
